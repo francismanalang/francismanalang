@@ -7,7 +7,7 @@
 
 - 🌱 I’m in the process of expanding my skills in **React and TypeScript!**
 
-- 📫 How to reach me **francismanalang7@gmail.com**
+- 📫 How to reach me: **francismanalang7@gmail.com**
 
 - ⚡ Fun fact **I have been an Olympic Weightlifter for the past 5 years🏋️‍♂️**
 
