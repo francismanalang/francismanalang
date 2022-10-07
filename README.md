@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Francis Manalang</h1>
-<h2 align="left">About Me</h2>
 
 <p>I am a Full Stack Web Developer who enjoys problem-solving and building web application 💻. I love learning new tools and languages and have come to embrace the the world of web development. When I'm not coding, you can find me trying new food places or at the gym!</p>
 
