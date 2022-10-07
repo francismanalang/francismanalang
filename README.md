@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on adding stretch features to [FitnessFuze](https://fitnessfuze.francismanalang.net/)
 
-- 🌱 I’m in the process of expanding my skills in **React and TypeScript**
+- 🌱 In the process of expanding my skills in **React and TypeScript**
 
 - 📫 How to reach me: **francismanalang7@gmail.com**
 
