@@ -8,7 +8,7 @@
 
 - 🌱 In the process of expanding my skills in **React** and **TypeScript**
 
-- ⚡ Fun fact: **I've been a Olympic Weightlifter for the past 5 years🏋️‍♂️**
+- ⚡ Fun fact: **I've been an Olympic Weightlifter for 5 years🏋️‍♂️**
 
 - 📫 How to reach me: **francismanalang7@gmail.com**
 
