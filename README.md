@@ -62,4 +62,4 @@
 </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francismanalang&show_icons=true&locale=en" alt="francismanalang" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francismanalang&hide=stars,contribs&show_icons=true&locale=en" alt="francismanalang" /></p>
