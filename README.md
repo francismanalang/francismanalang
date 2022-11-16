@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on adding stretch features to [FitnessFuze](https://fitnessfuze.francismanalang.net/)
 
-- 🌱 In the process of expanding my skills in **React** and **TypeScript**
+- 🌱 In the process of expanding my skills in **React** and **Swift**
 
 - ⚡ Fun fact: **I've been an Olympic Weightlifter for 5 years🏋️‍♂️**
 
